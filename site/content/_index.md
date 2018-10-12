@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a nuisance
+title: Great coffee with a consciousness
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
